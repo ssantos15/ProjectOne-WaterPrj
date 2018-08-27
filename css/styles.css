@@ -10,7 +10,7 @@
 
 .centered {
     position: absolute;
-    top: 17%;
+    top: 23%;
     left: 20%;
     transform: translate(-50%, -50%);
 }
@@ -34,6 +34,7 @@ ul {
 
 li {
 
+    float: left;
     border-right: 1px solid #bbb;
 }
 
